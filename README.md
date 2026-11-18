@@ -1,7 +1,8 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+
+# Reg No: 212225230297
+# Name: Vignesh J
+# Date: 17-11-2026
 
 
 # AIM:
@@ -38,6 +39,8 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -50,7 +53,7 @@ Specifying the context and requirements of a system
 
 
 
-
+<img width="940" height="683" alt="Screenshot 2026-11-18 120218" src="https://github.com/user-attachments/assets/2c738fd2-95fc-4cbf-a302-6da64c6a2a44" />
 
 
 
@@ -70,12 +73,19 @@ Create detailed charts that…
 
 
 
+<img width="1067" height="628" alt="Screenshot 2026-11-18 120559" src="https://github.com/user-attachments/assets/95980cad-f9d3-4f52-82cd-87b82c96443f" />
+
+
+
+
 # COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+
+<img width="1298" height="677" alt="Screenshot 2026-11-18 120517" src="https://github.com/user-attachments/assets/de9588b5-65d7-47e7-86b4-120eab4131b3" />
 
 
 
@@ -90,6 +100,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1176" height="655" alt="Screenshot 2026-11-18 121139" src="https://github.com/user-attachments/assets/f14aee41-7915-4da4-a185-8a72b24de7c2" />
 
 
 
@@ -107,6 +118,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="648" height="772" alt="Screenshot 2026-11-18 120326" src="https://github.com/user-attachments/assets/53eb6581-727a-4bdf-9a21-76677b374106" />
 
 
 
@@ -128,7 +140,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-
+<img width="1210" height="888" alt="Screenshot 2026-11-18 120356" src="https://github.com/user-attachments/assets/6104c4f3-2328-4460-928b-1f3b73c6f9e7" />
 
 
 
